@@ -1,4 +1,4 @@
-### Olá eu me chamo Yan Ockoski, estudante de Ciências Contábeis e apaixonado por tecnologia. 
+### Olá eu sou Yan Ockoski, estudante de Ciências Contábeis e apaixonado por tecnologia. 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
