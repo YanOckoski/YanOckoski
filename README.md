@@ -1,4 +1,8 @@
-### Olá, eu sou Yan Ockoski! Um aventureiro no mundo da Programação. :3
+## Olá, eu sou Yan Ockoski!
+
+ 📚 Formado em Ciências Contábeis<br>
+ 👨‍💻 Estudante de Front-End pela Alura em parceria com a Oracle Next Education<br><br>
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
