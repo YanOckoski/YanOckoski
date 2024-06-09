@@ -4,7 +4,7 @@
 
  📚 Formado em Ciências Contábeis pela Unicesumar<br>
  👨‍💻 Formado em desenvolvimento Front-End Jr. pela Oracle Next Education<br>
- 🏦 Atualmente trabalho como Assistente Contábil na Universidade Mogi das Cruzes<br>
+ 🏦 Atualmente trabalho como Assistente Contábil no Escritório Contábil Objetivo<br>
  
 ##
 
