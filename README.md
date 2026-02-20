@@ -2,9 +2,11 @@
 
 ### Meu nome é Yan Ockoski, sejam bem vindos!!!
 
- 📚 Formado em Ciências Contábeis pela Unicesumar<br>
- 👨‍💻 Formado em desenvolvimento Front-End Jr. pela Oracle Next Education<br>
- 🏦 Atualmente trabalho como Assistente Contábil no Escritório Contábil Objetivo<br>
+ 📚 Sou formado em Ciências Contábeis pela Unicesumar e Pós Graduado em Contabilidade, Auditoria e Controladoria pela Uninter<br>
+ 👨‍💻 Tenho a formação desenvolvimento Front-End Jr. pela Oracle Next Education<br>
+ 🏦 Sou apaixonado pela tecnologia, mas hoje o meu foco é a contabilidade, trabalho como Assistente Contábil na RSM Brasil,<br>
+ sou Auxiliar da Justiça atuando como Périto em questões especificas, como recálculo de processos imobiliários, e estou em desenvolvimento para iniciar o meu próprio escritório<br>
+ com foco inicial em MEI e Simples Nacional.
  
 ##
 
@@ -36,7 +38,7 @@
 
  #### Fale comigo:
  <div style="display: inline_block"><br>
-<a href="https://www.instagram.com/yan_ockoski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yanockoski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/yanockoski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
