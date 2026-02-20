@@ -3,7 +3,7 @@
 ### Meu nome é Yan Ockoski, sejam bem vindos!!!
 
  📚 Sou formado em Ciências Contábeis pela Unicesumar e Pós Graduado em Contabilidade, Auditoria e Controladoria pela Uninter<br>
- 👨‍💻 Tenho a formação desenvolvimento Front-End Jr. pela Oracle Next Education<br>
+ 👨‍💻 Tenho a formação desenvolvimento Front-End Jr. pela Oracle Next Education<br><br><br>
  🏦 Sou apaixonado pela tecnologia, mas hoje o meu foco é a contabilidade, trabalho como Assistente Contábil na RSM Brasil,<br>
  sou Auxiliar da Justiça atuando como Périto em questões especificas, como recálculo de processos imobiliários, e estou em desenvolvimento para iniciar o meu próprio escritório
  com foco inicial em MEI e Simples Nacional.
